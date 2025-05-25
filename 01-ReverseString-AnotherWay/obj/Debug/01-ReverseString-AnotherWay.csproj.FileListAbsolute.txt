@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\01-ReverseString-AnotherWay\bin\Debug\01-ReverseString-AnotherWay.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\01-ReverseString-AnotherWay\bin\Debug\01-ReverseString-AnotherWay.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\01-ReverseString-AnotherWay\bin\Debug\01-ReverseString-AnotherWay.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\01-ReverseString-AnotherWay\obj\Debug\01-ReverseString-AnotherWay.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\01-ReverseString-AnotherWay\obj\Debug\01-ReverseString-AnotherWay.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\01-ReverseString-AnotherWay\obj\Debug\01-ReverseString-AnotherWay.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\01-ReverseString-AnotherWay\obj\Debug\01-ReverseString-AnotherWay.pdb
