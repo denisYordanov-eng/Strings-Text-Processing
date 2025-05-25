@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\03-TextFilter\bin\Debug\03-TextFilter.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\03-TextFilter\bin\Debug\03-TextFilter.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\03-TextFilter\bin\Debug\03-TextFilter.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\03-TextFilter\obj\Debug\03-TextFilter.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\03-TextFilter\obj\Debug\03-TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\03-TextFilter\obj\Debug\03-TextFilter.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\03-TextFilter\obj\Debug\03-TextFilter.pdb
