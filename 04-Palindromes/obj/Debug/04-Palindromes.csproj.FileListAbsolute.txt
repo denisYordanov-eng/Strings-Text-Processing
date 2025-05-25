@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\04-Palindromes\bin\Debug\04-Palindromes.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\04-Palindromes\bin\Debug\04-Palindromes.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\04-Palindromes\bin\Debug\04-Palindromes.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\04-Palindromes\obj\Debug\04-Palindromes.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\04-Palindromes\obj\Debug\04-Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\04-Palindromes\obj\Debug\04-Palindromes.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\04-Palindromes\obj\Debug\04-Palindromes.pdb
