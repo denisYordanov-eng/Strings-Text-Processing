@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\ConvertFromBase10ToBase-N\bin\Debug\ConvertFromBase10ToBase-N.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\ConvertFromBase10ToBase-N\bin\Debug\ConvertFromBase10ToBase-N.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\ConvertFromBase10ToBase-N\bin\Debug\ConvertFromBase10ToBase-N.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\ConvertFromBase10ToBase-N\obj\Debug\ConvertFromBase10ToBase-N.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\ConvertFromBase10ToBase-N\obj\Debug\ConvertFromBase10ToBase-N.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\ConvertFromBase10ToBase-N\obj\Debug\ConvertFromBase10ToBase-N.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\ConvertFromBase10ToBase-N\obj\Debug\ConvertFromBase10ToBase-N.pdb
