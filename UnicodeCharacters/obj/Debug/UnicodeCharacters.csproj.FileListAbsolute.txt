@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\UnicodeCharacters\obj\Debug\UnicodeCharacters.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\UnicodeCharacters\obj\Debug\UnicodeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb
