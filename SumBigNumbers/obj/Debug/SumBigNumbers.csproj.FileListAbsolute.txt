@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\SumBigNumbers\bin\Debug\SumBigNumbers.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\SumBigNumbers\bin\Debug\SumBigNumbers.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\SumBigNumbers\bin\Debug\SumBigNumbers.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\SumBigNumbers\obj\Debug\SumBigNumbers.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\SumBigNumbers\obj\Debug\SumBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\SumBigNumbers\obj\Debug\SumBigNumbers.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\SumBigNumbers\obj\Debug\SumBigNumbers.pdb
