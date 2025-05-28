@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.pdb
