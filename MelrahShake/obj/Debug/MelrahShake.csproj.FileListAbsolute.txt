@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MelrahShake\bin\Debug\MelrahShake.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MelrahShake\bin\Debug\MelrahShake.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MelrahShake\bin\Debug\MelrahShake.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MelrahShake\obj\Debug\MelrahShake.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MelrahShake\obj\Debug\MelrahShake.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MelrahShake\obj\Debug\MelrahShake.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\MelrahShake\obj\Debug\MelrahShake.pdb
