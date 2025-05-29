@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe.config
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.pdb
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.exe
+C:\Users\Laptop\Desktop\C#\StringsAndTextProcessing\01-ReverseString\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.pdb
